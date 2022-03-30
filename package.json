@@ -1,0 +1,10 @@
+{
+  "name": "my-butt",
+  "version": "18.18.18",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.0.0"
+  }
+}
